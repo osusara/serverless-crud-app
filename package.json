@@ -9,7 +9,7 @@
   "author": "Osusara Kammalawatta",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.709.0"
+    "aws-sdk": "^2.814.0"
   },
   "devDependencies": {
     "serverless-pseudo-parameters": "^2.5.0"
